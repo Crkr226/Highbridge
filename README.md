@@ -5,6 +5,9 @@ This bridge carried both passenger and freight trains through the Pallisades.
 
 ![HighBridge](HighBridge.jpg)   
 
+
+
+# Animated aerial view using Lidar
 The animation below shows the valley, river, and bridge that give highbridge its stunning scenery.   
 ![HighBridge Animation](HighBridgeAnimation.png)  
 
