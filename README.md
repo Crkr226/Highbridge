@@ -11,6 +11,6 @@ This bridge carried both passenger and freight trains through the Pallisades.
 The animation below shows the valley, river, and bridge that give highbridge its stunning scenery.   
 ![HighBridge Animation](HighBridgeAnimation.png)  
 
-https://youtu.be/di1FGeJWS_o
+ https://youtu.be/di1FGeJWS_o
 
 Created by crkr226 for GEO 409. All data is from KyFromAbove.ky.gov
