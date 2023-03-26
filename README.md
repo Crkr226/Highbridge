@@ -5,7 +5,9 @@ This bridge carried both passenger and freight trains through the Pallisades.
 
 ![HighBridge](HighBridge.jpg)   
 
-![UKy Campus canopy model](campus-canopy-model.jpg)   
-UKy central campus canopy model – [Download geospatial PDF](campus-canopy-model.pdf)
+The animation below shows the valley, river, and bridge that give highbridge its stunning scenery.   
+![HighBridge Animation](HighBridgeAnimation.png)  
 
-Maps created by boydx for GEO409, Spring 2023, University of Kentucky Department of Geography
+https://youtu.be/di1FGeJWS_o
+
+Created by crkr226 for GEO 409. All data is from KyFromAbove.ky.gov
